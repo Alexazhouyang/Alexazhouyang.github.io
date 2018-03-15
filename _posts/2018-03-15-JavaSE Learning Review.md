@@ -53,6 +53,7 @@ Becuase of preparing the tech interview for my first job, I have to start review
 ## Tips of Basic Part
 1.Primary Data Type:Java supports eight primitive data types: `byte`` short``int`` long``float``double``char``boolean`.
 >>The output of the relational operator is (true/false) boolean value, and in Java, true or false is a non-numeric value that is not related to zero or one.
+
 2.Java string compare different case(uppercase & lowercase)
 >>Rules of Declaring variables in Java:
 * A variable name can consist of Capital letters A-Z, lowercase letters a-z, digits 0-9, and two special characters such as underscore and dollar Sign.
