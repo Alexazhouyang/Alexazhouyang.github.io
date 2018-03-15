@@ -7,7 +7,9 @@ author:     Alexa
 header-img: img/post-bg-note1.jpg
 catalog: true
 tags:
-    - Java , javaSE, JDK
+    - Java
+    - JAVASE
+    - JDK
 ---
 
 ## Preview
