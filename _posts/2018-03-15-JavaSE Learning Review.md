@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      JavaSE Learning Review 
-subtitle:   Based on Jenior Java developer interview 
+title:      JavaSE Learning Review(1)
+subtitle:   Based on Jenior Java developer interview 
 date:       2018-03-15
 author:     Alexa
 header-img: img/post-bg-note1.jpg
@@ -45,6 +45,7 @@ Becuase of preparing the tech interview for my first job, I have to start review
 * [Java is distribute](#){:target="_blank"} 
 * [Portable](#){:target="_blank"} 
 
-<p style="color:gray;font-size:10px">reference from:https://beginnersbook.com/2013/05/java-introduction/<p>
+
+<p style="color:gray;font-size:10px">reference from:<a href="https://beginnersbook.com/2013/05/java-introduction">beginnersbook.com<a></p>
 
 
