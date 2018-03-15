@@ -26,4 +26,4 @@ JDK includes JRE includes JVM
 * Java Development Kit : It is the tool necessary to compile ,document and package Java programs. The JDK completely includes JRE which contains tools for Java programmers.The Java Development Kit is provided free of charge. Along with JRE, it includes an interpreter/loader, a compiler (javac), an archiver (jar), a documentation generator (javadoc) and other tools needed in Java development. In short, it contains JRE + development tools.
 
 **[WHY JAVA AS PLATEFORM INDEPENDENT LANGUAGE]**
-*`Each operating system has different JVM, however the output they produce after execution of byte code is same across all operating system.`
+* Each operating system has different JVM, however the output they produce after execution of byte code is same across all operating system.
