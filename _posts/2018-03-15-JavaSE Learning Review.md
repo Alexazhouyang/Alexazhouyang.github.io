@@ -18,7 +18,7 @@ Becuase of preparing the tech interview for my first job, I have to start review
 
 ## Content | Basic Part
 
-### Java terms: JVM , JRE, JDK
+** Java terms: JVM , JRE, JDK **
 
 JDK includes JRE includes JVM
 * Java Virtual Machine : It’s an abstract machine . It is a specification that provides run-time environment in which java byte code can be executed. `The primary function of JVM is to execute the byte code produced by compiler `.
