@@ -36,15 +36,15 @@ Becuase of preparing the tech interview for my first job, I have to start review
 - Polymorphism
 
 >Q:Why java is not 100% Object-oriented?
-Java is not 100% Object-oriented because it makes use of eight primitive datatypes such as boolean, byte, char, int, float, double, long, short which are  **not objects**.
+**Java is not 100% Object-oriented because it makes use of eight primitive datatypes such as boolean, byte, char, int, float, double, long, short which are not objects**.
 
 ##Pros of Java 
-1.[Simple]:#
-2.[Robust Language]:#
-3.[Secure]:#
-4.[Java is distribute]:#
-5.[Portable]:#
+1.[Simple](#){:target="_blank"} 
+2.[Robust Language](#){:target="_blank"} 
+3.[Secure](#){:target="_blank"} 
+4.[Java is distribute](#){:target="_blank"} 
+5.[Portable](#){:target="_blank"} 
 
-<p style="color:gray;front-size:10px">reference from:https://beginnersbook.com/2013/05/java-introduction/<p>
+<p style="color:gray;font-size:5px">reference from:https://beginnersbook.com/2013/05/java-introduction/<p>
 
 
