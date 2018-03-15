@@ -39,12 +39,12 @@ Becuase of preparing the tech interview for my first job, I have to start review
 **Java is not 100% Object-oriented because it makes use of eight primitive datatypes such as boolean, byte, char, int, float, double, long, short which are not objects**.
 
 ##Pros of Java 
-1.[Simple](#){:target="_blank"} 
-2.[Robust Language](#){:target="_blank"} 
-3.[Secure](#){:target="_blank"} 
-4.[Java is distribute](#){:target="_blank"} 
-5.[Portable](#){:target="_blank"} 
+* [Simple](#){:target="_blank"} 
+* [Robust Language](#){:target="_blank"} 
+* [Secure](#){:target="_blank"} 
+* [Java is distribute](#){:target="_blank"} 
+* [Portable](#){:target="_blank"} 
 
-<p style="color:gray;font-size:5px">reference from:https://beginnersbook.com/2013/05/java-introduction/<p>
+<p style="color:gray;font-size:10px">reference from:https://beginnersbook.com/2013/05/java-introduction/<p>
 
 
