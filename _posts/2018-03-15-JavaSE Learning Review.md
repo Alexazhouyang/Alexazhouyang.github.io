@@ -46,6 +46,6 @@ Becuase of preparing the tech interview for my first job, I have to start review
 * [Portable](#){:target="_blank"} 
 
 
-<p style="color:gray;font-size:10px">reference from:<a href="https://beginnersbook.com/2013/05/java-introduction">beginnersbook.com<a></p>
+<p style="color:gray;font-size:10px">reference from:<a href="https://beginnersbook.com/2013/05/java-introduction">beginnersbook.com<a>
 
 
