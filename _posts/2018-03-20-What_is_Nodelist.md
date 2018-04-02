@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      learning from leetcode
+title:      learning plan
 subtitle:   what is nodelist?
 date:       2018-03-20
 author:     Alexa
