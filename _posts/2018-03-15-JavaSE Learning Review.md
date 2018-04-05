@@ -10,7 +10,6 @@ tags:
     - Java
     - JAVASE
     - JDK
-    - oop
 ---
 
 ## Preview
