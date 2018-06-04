@@ -44,3 +44,22 @@ tags:
 </body>
 </html>
 ```
+2. Using JQuery package to achieve, high compatibility but it is too large;
+
+```
+<link href="{$host}zb_users/theme/{$theme}/style/css/jquery.mCustomScrollbar.min.css" rel="stylesheet">
+<script src="{$host}zb_users/theme/{$theme}/script/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
+<script>
+    (function($){
+        $(window).on("load",function(){
+            $(".Scrollbar").mCustomScrollbar({
+             theme:"minimal-dark", //选了minimal-dark样式
+             scrollInertia: 0, //滚动不加入任何动画时间
+//更多配置信息 http://manos.malihu.gr/jquery-custom-content-scroller/
+             });
+        });
+
+    })(jQuery);
+
+</script>
+```
