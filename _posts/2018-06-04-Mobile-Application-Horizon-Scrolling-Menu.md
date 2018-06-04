@@ -11,7 +11,8 @@ tags:
 ---
 ##How to achieve Scrolling Menu based on webApp ?
 1. based on CSS, compatible with mobile except Firefox
-><!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
     <title>Horizon Scroll Menu</title>
@@ -41,3 +42,4 @@ tags:
     </div>
 </body>
 </html>
+```
