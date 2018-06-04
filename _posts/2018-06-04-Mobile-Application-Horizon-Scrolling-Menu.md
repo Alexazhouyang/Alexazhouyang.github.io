@@ -9,8 +9,9 @@ catalog: true
 tags:
     - CSS
 ---
-##How to achieve Scrolling Menu based on webApp ?
-1. based on CSS, compatible with mobile except Firefox
+## How to achieve Scrolling Menu based on webApp ?
+1. based on CSS, compatible with mobile except Firefox;
+
 ```
 <!DOCTYPE html>
 <html>
