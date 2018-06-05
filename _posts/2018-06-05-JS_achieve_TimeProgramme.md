@@ -10,7 +10,7 @@ tags:
     - JavaScript
     - html5
 ---
-#Just based on JavaScript to show localtime immediately 
+# Just based on JavaScript to show localtime immediately 
 
 ```javascript
  <script>  
